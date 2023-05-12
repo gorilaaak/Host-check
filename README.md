@@ -1,2 +1,2 @@
 # Host-check
-Simple script for checking multiple hosts from .ssh/config
+Simple script for checking all hosts from .ssh/config
